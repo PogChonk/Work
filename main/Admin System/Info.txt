@@ -1,0 +1,1 @@
+Assumed to have a Folder inside of ReplicatedStorage called Remotes with 3 RemoteEvents called: Notify, ShowBans, and ShowCmds.
