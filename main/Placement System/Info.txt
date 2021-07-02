@@ -1,0 +1,9 @@
+2 Folders inside of ReplicatedStorage: 1 called Furniture | 1 Called Remotes
+All furniture would be stored inside of the Furniture folder.
+All RemoteFunctions/RemoteEvents would be stored inside of the Remotes folder.
+
+Inside the Remotes folder are 2 RemoteEvents and 1 RemoteFunction.
+2 RemoteEvents: PickupItem and PlaceItem
+1 RemoteFunction: GetOwner
+
+There's a tile underneath the LocalScript, with an Interface with the same parent as the LocalScript.
