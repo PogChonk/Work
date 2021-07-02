@@ -1,0 +1,3 @@
+SubFolder is a Folder that is a child of ServerHandler.
+
+This subfolder has 4 Modules: Commands, Config, Functions, and Main
